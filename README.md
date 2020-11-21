@@ -30,6 +30,5 @@ Use VSCode to install.
 ## License
 
 MIT License
-
-- - - Copyright (c) 2020 Margaret Elson
+Copyright (c) 2020 Margaret Elson
 
