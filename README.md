@@ -6,9 +6,9 @@ On this project, I refactored a code to randomly generate a password consisting 
 
 This website was created using HTML, CSS, and Javascript. I think in the future, I would like to implement a 'history' or 'recently generated passwords' section under the button to help with user accessibility. 
 
-[Link to live site.](https://margaretelson.github.io/Random-Password-Generator/)
+[Link to the live site.](https://margaretelson.github.io/Random-Password-Generator/)
 
-[Link to live site.](https://www.youtube.com/watch?v=_8iPlmlJrmo&feature=youtu.be)
+[Link to demo video on Youtube.](https://www.youtube.com/watch?v=_8iPlmlJrmo&feature=youtu.be)
 
 ![Image of Random Password Generator](./PasswordImage.png)
 
